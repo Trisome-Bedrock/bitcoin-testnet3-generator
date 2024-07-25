@@ -1,1 +1,1 @@
-(CoinFaucet)[https://coinfaucet.eu/en/]
+[CoinFaucet](https://coinfaucet.eu/en/)
